@@ -1,4 +1,8 @@
 # Clases 4
+## instalacion
+- Version de Python: 3.12.1
+- instalar librerías: `pip install -r requirements.txt`
+
 ## Comandos
 - Para mostrar los archivos en el directorio actual: `ls`
 - Para mostar los archivos incluyendo los archivos ocultos `ls -a`
